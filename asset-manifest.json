@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webtoons/static/css/main.980b03d6.css",
+    "main.js": "/webtoons/static/js/main.63c8bf3b.js",
+    "index.html": "/webtoons/index.html",
+    "main.980b03d6.css.map": "/webtoons/static/css/main.980b03d6.css.map",
+    "main.63c8bf3b.js.map": "/webtoons/static/js/main.63c8bf3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980b03d6.css",
+    "static/js/main.63c8bf3b.js"
+  ]
+}
