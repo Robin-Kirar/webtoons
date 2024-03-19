@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/webtoons/static/css/main.96c8e4fb.css",
-    "main.js": "/webtoons/static/js/main.e56ca311.js",
+    "main.css": "/webtoons/static/css/main.1bdf27b3.css",
+    "main.js": "/webtoons/static/js/main.9a4565c4.js",
     "index.html": "/webtoons/index.html",
-    "main.96c8e4fb.css.map": "/webtoons/static/css/main.96c8e4fb.css.map",
-    "main.e56ca311.js.map": "/webtoons/static/js/main.e56ca311.js.map"
+    "main.1bdf27b3.css.map": "/webtoons/static/css/main.1bdf27b3.css.map",
+    "main.9a4565c4.js.map": "/webtoons/static/js/main.9a4565c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c8e4fb.css",
-    "static/js/main.e56ca311.js"
+    "static/css/main.1bdf27b3.css",
+    "static/js/main.9a4565c4.js"
   ]
 }
